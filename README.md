@@ -25,3 +25,6 @@ Esta aplicación permite cargar datasets en formatos CSV, Excel y JSON para real
 ## Instalación
 ```bash
 pip install -r requirements.txt
+
+##Ejecucion
+streamlit run ExploradorDatos.py
